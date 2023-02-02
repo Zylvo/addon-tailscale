@@ -1,4 +1,4 @@
-# Home Assistant Add-ons
+# Zylvo Home Assistant Add-ons
 
 This repository contains my add-ons for Home assistant.
 
